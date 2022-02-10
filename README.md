@@ -8,4 +8,4 @@ Veriseti xml formatında hazırlanmış olup açık erişimle paylaşıma sunulm
 
 Eğer verisetinden faydalanacak olursanız lütfen atıf veriniz. Atıf bilgileri aşağıda sunulmuştur. 
 
-Kayahan, S., Günel, K. & Nuriyev, U. (2022). "Eğitim İçerikleri için Sezgisel Metin Bölütlemeye Dayalı Çoklu Etiketleme Stratejisi: M.E.B. Sanat Tarihi Kitabı için Bir Durum Çalışması", <i>Bilişim Teknolojileri Dergisi</i>. url: https://github.com/kgunel/veriseti-Sanat-Tarihi.
+Kayahan, S., Günel, K. & Nuriyev, U. (2022). "Eğitim İçerikleri için Sezgisel Metin Bölütlemeye Dayalı Çoklu Etiketleme Stratejisi: M.E.B. Sanat Tarihi Kitabı için Bir Durum Çalışması", <i>Bilişim Teknolojileri Dergisi</i>. (submitted) url: https://github.com/kgunel/veriseti-Sanat-Tarihi.
